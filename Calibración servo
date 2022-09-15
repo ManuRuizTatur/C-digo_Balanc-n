@@ -1,0 +1,17 @@
+#include <Servo.h>
+
+Servo servo;
+
+int pinservo =9;
+int pulsomin=1000;
+int pulsomax=3000;
+
+void setup() {
+  servo.attach(pinservo);
+
+}
+
+void loop() {
+  servo.write(125);
+  
+}
