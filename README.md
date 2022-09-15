@@ -12,3 +12,5 @@ Como guía, se utilizó el tutorial de Electronoobs: http://electronoobs.com/eng
 Los planos para imprimir las piezas 3D se encuentran en: http://electronoobs.com/eng_arduino_tut100_stl1.php
 		
 El código del tutorial fue ligeramente modificado y es posible encontrarlo en: https://github.com/ManuRuizTatur/C-digo_Balanc-n/blob/main/Balancin
+
+El código para calibrar el servo sirve para poner el motor en posición de inicio.
