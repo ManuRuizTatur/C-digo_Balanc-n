@@ -26,10 +26,10 @@ int period = 50;  //Refresh rate period of the loop is 50ms
 
 
 ///////////////////PID constants///////////////////////
-float kp=8; 
+float kp=11; 
 float ki=0.7;
-float kd=3100; 
-float distance_setpoint = 16;           //Distancia desde el sensor hasta elcentro de la barra en cm
+float kd=5000; 
+float distance_setpoint = 11;           //Distancia desde el sensor hasta elcentro de la barra en cm
 float PID_p, PID_i, PID_d, PID_total;
 ///////////////////////////////////////////////////////
 
